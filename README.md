@@ -3,10 +3,24 @@
 ## Installation
 Firstly download Ruby according to your system requirements with the help of this [link](https://www.ruby-lang.org/en/downloads/)🙂.
 
-## Verify the installation by the help of this command:
+## Verify the installation
+- Open Windows Powershell or Command Prompt.
+- Copy this command in your Poweshell or Command Prompt and hit Enter.
 ```sh
 ruby –v
 ```
+If this show ruby version then every thing is fine.
+
+## If above command is showing error
+- Now go to this location 👉 (C:\Ruby26-x64\bin)
+- Copy that path.
+- Now go to this location 👉 (Control Panel\All Control Panel Items\System).
+- Click on Advance System Settings.
+- Click on Environment Variables.
+- Now go to User Varaibles.
+- Double click on path, then click on new.
+- Paste this path 👉 (C:\Ruby26-x64\bin).
+- Please again verify the installation by the help of above command.
 
 ## Download
 - If everything is fine. Now you can download the code😎.
